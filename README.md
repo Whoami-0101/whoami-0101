@@ -19,7 +19,7 @@
 
   - 💬 Tenho 21 anos e sou residente no Brasil, com experiência básica em Java, HTML e CSS. Atualmente, atuo como técnico em sistemas de informação, adquirindo sólida experiência em suporte técnico e resolução de problemas.
 
-  - ⚡(em construção). \o/
+  - ⚡(em construção.). \o/
 </details>
 
 <!-- Links -->
@@ -28,7 +28,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Whoami-0101&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Whoami-0101&show_icons=false&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
